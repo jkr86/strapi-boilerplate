@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_common_footer_cards",
+  "info": {
+    "displayName": "footerCard"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
