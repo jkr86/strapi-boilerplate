@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_common_editors",
+  "info": {
+    "displayName": "Editor"
+  },
+  "options": {},
+  "attributes": {
+    "Body": {
+      "type": "richtext"
+    }
+  }
+}

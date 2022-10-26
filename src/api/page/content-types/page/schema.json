@@ -26,7 +26,8 @@
         "section.hero",
         "section.navbar",
         "section.contact",
-        "section.services"
+        "section.services",
+        "section.blogs"
       ]
     }
   }
